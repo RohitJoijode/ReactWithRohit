@@ -2,3 +2,6 @@
 Add package for React Demo project 
 
 D:\@Rohit React@\React_Project>npx create-remix
+
+below url use for React App Create
+https://legacy.reactjs.org/docs/create-a-new-react-app.html
