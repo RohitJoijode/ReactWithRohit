@@ -1,4 +1,7 @@
 
+Below Url for react Tutorial
+https://react.dev/
+
 Add package for React Demo project 
 
 D:\@Rohit React@\React_Project>npx create-remix
@@ -11,3 +14,6 @@ D:\@Rohit React@\React_Project>npx create-react-app my-app
 
 change folder directory command
 D:\@Rohit React@\React_Project>cd my-app
+
+
+
