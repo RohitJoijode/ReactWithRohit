@@ -1,0 +1,4 @@
+
+Add package for React Demo project 
+
+D:\@Rohit React@\React_Project>npx create-remix
