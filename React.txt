@@ -15,5 +15,7 @@ D:\@Rohit React@\React_Project>npx create-react-app my-app
 change folder directory command
 D:\@Rohit React@\React_Project>cd my-app
 
+--Commond on Demo.jsx rafc
+
 
 
