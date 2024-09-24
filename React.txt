@@ -17,5 +17,10 @@ D:\@Rohit React@\React_Project>cd my-app
 
 --Commond on Demo.jsx rafc
 
+--------24/09/2024
+--https://babeljs.io/ (this website showing how to JSX (Javascript xml) convert Javascript)
+
+
+
 
 
