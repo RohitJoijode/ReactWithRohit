@@ -27,6 +27,8 @@ D:\@Rohit React@\React_Project>cd my-app
 ----Auth Command for login authentication
   ----npm i @auth0/auth0-react
 
+npm install react-router-dom
+
 
 
 
