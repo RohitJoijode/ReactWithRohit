@@ -12,6 +12,7 @@ https://legacy.reactjs.org/docs/create-a-new-react-app.html
 below Command for create React project
 D:\@Rohit React@\React_Project>npx create-react-app my-app
 
+
 change folder directory command
 D:\@Rohit React@\React_Project>cd my-app
 
@@ -20,6 +21,8 @@ D:\@Rohit React@\React_Project>cd my-app
 --------24/09/2024
 --https://babeljs.io/ (this website showing how to JSX (Javascript xml) convert Javascript)
 
+----For Fontawesome 
+---https://docs.fontawesome.com/v5/web/use-with/react
 
 ----Auth Command for login authentication
   ----npm i @auth0/auth0-react
