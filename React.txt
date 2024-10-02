@@ -21,6 +21,10 @@ D:\@Rohit React@\React_Project>cd my-app
 --https://babeljs.io/ (this website showing how to JSX (Javascript xml) convert Javascript)
 
 
+----Auth Command for login authentication
+  ----npm i @auth0/auth0-react
+
+
 
 
 
